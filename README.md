@@ -1,4 +1,4 @@
-[![Build Status](https://recipe-tester.com/repo/spulec/ntp/badge.png)](https://recipe-tester.com/repo/spulec/)
+[![Build Status](https://recipe-tester.com/repo/spulec/ntp/badge.png)](https://recipe-tester.com/repo/spulec/nginx/)
 
 Description
 ===========
